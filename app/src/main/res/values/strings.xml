@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Thunder Labs</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Tabs -->
+    <string name="tab_text_1">Noticias</string>
+    <string name="tab_text_2">Recientes</string>
+    <string name="tab_text_3">Videos</string>
+</resources>
